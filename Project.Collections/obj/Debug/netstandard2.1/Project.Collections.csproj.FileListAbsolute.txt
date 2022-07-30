@@ -1,0 +1,10 @@
+D:\WorkSpaces\GenericListProject\Project.Collections\bin\Debug\netstandard2.1\Project.Collections.deps.json
+D:\WorkSpaces\GenericListProject\Project.Collections\bin\Debug\netstandard2.1\Project.Collections.dll
+D:\WorkSpaces\GenericListProject\Project.Collections\bin\Debug\netstandard2.1\Project.Collections.pdb
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.csproj.AssemblyReference.cache
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.AssemblyInfoInputs.cache
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.AssemblyInfo.cs
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.dll
+D:\WorkSpaces\GenericListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.pdb
